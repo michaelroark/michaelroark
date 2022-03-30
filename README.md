@@ -1,0 +1,4 @@
+- Hi, I’m @michaelroark
+- I’m someone who has has dabbled in a number of fields.  I have studied Industrial-Organizational Psychology.  I currently work as a bus monitor and I am trying to develop myself as a data analyst.
+- I’m currently learning R, Tableau, and SQL.
+- If you have feedback for me or are interested in working with me, you can reach me at michaelmroark@gmail.com
